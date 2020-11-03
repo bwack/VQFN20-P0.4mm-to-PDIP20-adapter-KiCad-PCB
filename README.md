@@ -1,0 +1,1 @@
+# VQFN20-P0.4mm-to-PDIP20-adapter
